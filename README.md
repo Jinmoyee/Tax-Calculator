@@ -3,7 +3,7 @@ Project name: Tax Calculator
 The assignment has to be done in HTML, CSS, Javascript, and Bootstrap.
 
 The designs of inputs tags are being taken from Bootstrap where the error highlight has been pre builded.
-The wesite is responsive and hosted on ""
+The wesite is responsive and hosted on "https://jinmoyee.github.io/Tax-Calculator/"
 
 In JavaScrpit part I have created calculateTax() function for calculating the total income, where I have taken gross Income, extra Income ,deductions and age values from the HTML input fields.
 
